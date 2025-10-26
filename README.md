@@ -24,7 +24,7 @@
 ## ⚙️ Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/deep-research.git
+git clone https://github.com/melisamehe/deep-research-agents.git
 cd deep-research
 ```
 2. Create a .env file
@@ -71,3 +71,4 @@ Then open the link shown in the terminal (usually http://127.0.0.1:7860/) to sta
 ## 🏗️ Project Idea
 
 This project is inspired by the Agentic AI paradigm, showcasing how independent AI agents can collaborate to perform complex, multi-step research autonomously.
+
